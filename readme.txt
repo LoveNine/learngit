@@ -1,3 +1,2 @@
-This is first use git.
+This is my first time use git.
 Good Luck! LoveNine
-test
